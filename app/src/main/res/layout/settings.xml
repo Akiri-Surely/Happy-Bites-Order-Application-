@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="We're Here to Help!"
+    android:textSize="50dp"
+    android:fontFamily="cursive"
+    android:layout_marginTop="30dp"
+    android:textColor="#000000"
+    android:gravity="center"/>
+    <TextView
+        android:layout_margin="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textSize="25dp"
+        android:textColor="#000000"
+        android:fontFamily="cursive"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="07023124732"
+        android:id="@+id/textnum"
+        android:textSize="25dp"
+        android:layout_gravity="center"
+        android:fontFamily="cursive"
+        android:textColor="#9f126c"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/textemail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="surelyakiri011@gmail.com"
+        android:layout_gravity="center"
+        android:textColor="#9f126c"
+        android:fontFamily="cursive"
+        android:textStyle="bold"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:background="#ffc873"
+        android:fontFamily="cursive"
+        android:layout_margin="90dp"
+        android:id="@+id/buttonRegister" />
+</LinearLayout>

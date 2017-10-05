@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu">
+        <item> Burger and Fries </item>
+        <item> Chicken and Fries </item>
+        <item> Chinese Chicken Rice </item>
+        <item> Moussaka </item>
+        <item> Mac and Cheese </item>
+        <item> Samosa </item>
+        <item> Sandwiches </item>
+        <item> Subways </item>
+        <item> Rolex </item>
+        <item> Ice Cream </item>
+        <item> Soda </item>
+        <item> Water </item>
+        <item> Hot Beverages </item>
+        <item> Beers, Cocktails, Wine or Spirits </item>
+        <item> Milkshakes </item>
+    </string-array>
+</resources>
